@@ -9,4 +9,4 @@
 <a href='https://stackoverflow.com/users/19937720/erlik'>![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=black)</a>
 
 [![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
-![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)
