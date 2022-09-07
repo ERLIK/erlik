@@ -11,8 +11,7 @@
 
 <table>
 <tr>
-<a href='https://www.linkedin.com/in/furkannibis/'>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black)
+<a href='https://www.linkedin.com/in/furkannibis/'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black)
 </a>
 <br><br>
 <a href='https://stackoverflow.com/users/19937720/erlik'>
