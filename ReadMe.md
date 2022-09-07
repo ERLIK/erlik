@@ -3,5 +3,7 @@
 
 🔭 I’m currently working on Python Projects
 
-🌱 I’m currently learning Go, Bash, Web Security, Networking<br>
+🌱 I’m currently learning Go, Bash, Web Security, Networking
+<br><br>
 <a href='https://www.linkedin.com/in/furkannibis/'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href='https://stackoverflow.com/users/19937720/erlik'>![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
