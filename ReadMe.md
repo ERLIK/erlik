@@ -8,11 +8,13 @@
 <a href='https://www.linkedin.com/in/furkannibis/'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black)</a>
 <a href='https://stackoverflow.com/users/19937720/erlik'>![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=black)</a>
 
-<h3>PROGRAMMING</h3>
+
 
 <table>
 <tr>
 
+<h3>PROGRAMMING</h3>
+  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -26,6 +28,8 @@
 </tr>
 <tr>
 
+<h3>DATABASE</h3>
+
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -35,9 +39,7 @@
   
 </tr>
 <tr>
-<td>Centro comercial Moctezuma</td>
-<td>Francisco Chang</td>
-<td>Mexico</td>
+
 </tr>
 </table>
 
