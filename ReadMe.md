@@ -4,3 +4,5 @@
 🔭 I’m currently working on Python Projects
 
 🌱 I’m currently learning Go, Bash, Web Security, Networking
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
