@@ -4,5 +4,4 @@
 🔭 I’m currently working on Python Projects
 
 🌱 I’m currently learning Go, Bash, Web Security, Networking
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black)
+<a href='https://www.linkedin.com/in/furkannibis/'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
