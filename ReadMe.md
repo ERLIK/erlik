@@ -6,16 +6,13 @@
 🌱 I’m currently learning Go, Bash, Web Security, Networking
 
 
-
-
+<a href='https://www.linkedin.com/in/furkannibis/'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black)</a>
+<br><br>
+<a href='https://stackoverflow.com/users/19937720/erlik'>![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=black)</a>
 
 <table>
 <tr>
-<a href='https://www.linkedin.com/in/furkannibis/'><p>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black)</p></a>
-<br><br>
-<a href='https://stackoverflow.com/users/19937720/erlik'>
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=black)
-</a>
+
   
 </tr>
 <tr>
